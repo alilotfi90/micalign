@@ -1,5 +1,11 @@
 # micalign
 
+## Developers
+
+- Ali Lotfi
+- Motasin Akib
+- Claude Opus 4.8 (Anthropic)
+
 Robust band-to-reference alignment for **MicaSense Altum-PT / RedEdge-P** captures.
 
 Point it at a folder of 7-band captures and a reflectance-panel calibration
